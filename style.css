@@ -1,0 +1,29 @@
+/* *{
+    border: 1px solid red;
+    padding: 3px;
+} */
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#divOperacao{
+    font-size: 60px;
+
+}
+
+div{
+    margin-top: 15px;
+}
+
+
